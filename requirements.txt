@@ -3,5 +3,5 @@ SQLAlchemy==1.2.18
 PyMySQL==0.9.3
 pyquery==1.4.0
 pytesseract==0.2.6
-Pillow==5.4.1
+Pillow==6.2.0
 scrapy==1.6.0
